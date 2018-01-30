@@ -1,0 +1,25 @@
+body {
+	background-image:url("images/concrete_seamless.png");
+}
+
+header { 
+	background-color:white; 
+}
+
+#mainContent {
+	background-color:green;
+	border: 5px orange dashed;
+}
+
+#profilePic {
+	width:200px;
+}
+
+#sidebar {
+	background-color:blue;
+	border:5px red dashed;
+}
+
+footer {
+	background-color:grey;
+}
